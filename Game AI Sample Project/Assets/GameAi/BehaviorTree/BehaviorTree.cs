@@ -9,7 +9,8 @@
 
 
 using System;
-using RaKrae.GameAi.BehaviorTree.Nodes;
+using RaKrae.GameAi.BehaviorTree.Nodes.Composites;
+using RaKrae.GameAi.BehaviorTree.Nodes.Decorators;
 
 namespace RaKrae.GameAi.BehaviorTree
 {

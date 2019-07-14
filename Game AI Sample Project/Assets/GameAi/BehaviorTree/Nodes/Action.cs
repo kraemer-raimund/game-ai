@@ -10,7 +10,7 @@
 
 namespace RaKrae.GameAi.BehaviorTree.Nodes
 {
-    public abstract class BehaviorAction : INode
+    public abstract class Action : INode
     {
         public abstract NodeResult Execute(IContext context);
     }

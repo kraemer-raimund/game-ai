@@ -8,7 +8,7 @@
 */
 
 
-namespace RaKrae.GameAi.BehaviorTree.Nodes
+namespace RaKrae.GameAi.BehaviorTree.Nodes.Decorators
 {
     public class Succeeder : Decorator
     {

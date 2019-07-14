@@ -11,7 +11,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace RaKrae.GameAi.BehaviorTree.Nodes
+namespace RaKrae.GameAi.BehaviorTree.Nodes.Composites
 {
     public class Selector : Composite
     {
