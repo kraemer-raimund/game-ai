@@ -13,3 +13,7 @@ The goal is to create a library of reusable mechanisms for creating both simple 
 Behavior trees can be built up using individual nodes, or by composing multiple behavior trees together to create very complex behaviors using simple modular building blocks. To create your own behavior, create a sub-class of `BehaviorTree`, and in its constructor instantiate the nodes or sub-trees that comprise your desired AI behavior. The `BehaviorTree` class has some convenience methods for instantiating some of the most common node types.
 
 [Here's an article](https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php) with a good overview of the concept.
+
+# License
+
+The code is licensed under the MIT license. Please refer to the LICENSE file for more info.
