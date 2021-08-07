@@ -1,0 +1,271 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.15f1 (e767a7370072) revision 15165351'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'de' Physical Memory: 32718 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity Versions\2021.1.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/kraem/Repositories/game-ai/Game AI Sample Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62429
+Successfully changed project path to: C:/Users/kraem/Repositories/game-ai/Game AI Sample Project
+C:/Users/kraem/Repositories/game-ai/Game AI Sample Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.15f1 (e767a7370072)
+[Subsystems] Discovering subsystems at path E:/Unity Versions/2021.1.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kraem/Repositories/game-ai/Game AI Sample Project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   NVIDIA
+    VRAM:     8050 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'E:/Unity Versions/2021.1.15f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity Versions/2021.1.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity Versions/2021.1.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity Versions/2021.1.15f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/Unity Versions/2021.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001260 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 40.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.787 seconds
+Domain Reload Profiling:
+	ReloadAssembly (787ms)
+		BeginReloadAssembly (42ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (328ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (129ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (142ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Domain Reload Profiling:
+	ReloadAssembly (859ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (695ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (225ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (293ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (43ms)
+				ProcessInitializeOnLoadAttributes (193ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1955 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.9 MB.
+System memory in use after: 82.0 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2375.
+Total: 4.623200 ms (FindLiveObjects: 0.142800 ms CreateObjectMapping: 0.042300 ms MarkObjects: 4.382100 ms  DeleteObjects: 0.055100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/GameAi/BehaviorTree/Nodes/Composites/Selector.cs
+  artifactKey: Guid(6ff9170d1cbee19469a649c2283bae2b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Composites/Selector.cs using Guid(6ff9170d1cbee19469a649c2283bae2b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ed8350a0eb1f3afd8de4b0804729147e') in 0.055619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/GameAi/BehaviorTree/NodeResult.cs
+  artifactKey: Guid(7342bf0b45039b344aa490b3d1df9f71) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/NodeResult.cs using Guid(7342bf0b45039b344aa490b3d1df9f71) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '70f067a344377cce819ae10569a63a50') in 0.003980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Decorators/Succeeder.cs
+  artifactKey: Guid(bb572e9c4a8449b4592d59325aa1974b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Decorators/Succeeder.cs using Guid(bb572e9c4a8449b4592d59325aa1974b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '05b05fb540995a9a264482ddb7e28987') in 0.004353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/GameAi/BehaviorTree/Context.cs
+  artifactKey: Guid(550e5f73159ec81458dfe960b9b1f881) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Context.cs using Guid(550e5f73159ec81458dfe960b9b1f881) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a01cfb2bdca0f5bab608d4e0c05172ef') in 0.003802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Composites/RandomSelector.cs
+  artifactKey: Guid(64c30d9a8daf4c3488a7a2dd3457feed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Composites/RandomSelector.cs using Guid(64c30d9a8daf4c3488a7a2dd3457feed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f4c85bbaeb07f970cf118d06defa587a') in 0.004393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/GameAi/BehaviorTree/INode.cs
+  artifactKey: Guid(f473930eb0717da4981c15edc95229e3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/INode.cs using Guid(f473930eb0717da4981c15edc95229e3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6309f8c3e3467797b9faf4253a7392fb') in 0.004023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Node.cs
+  artifactKey: Guid(5fa2bef1dd10c6140b4c15021eb095df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Node.cs using Guid(5fa2bef1dd10c6140b4c15021eb095df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5f9756937fb5ae95eaf1775e52eccf8e') in 0.007030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Action.cs
+  artifactKey: Guid(9ca4bf97b8420754f9dc24e6770ac7e8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Action.cs using Guid(9ca4bf97b8420754f9dc24e6770ac7e8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3d30b69435d551ea9bcacf9cce96489a') in 0.003671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/GameAi/BehaviorTree/BehaviorTree.cs
+  artifactKey: Guid(6e220206612847740b5b4aac60261d71) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/BehaviorTree.cs using Guid(6e220206612847740b5b4aac60261d71) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6bc3db367451ec32392d2b11c91eec93') in 0.003920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Decorators/Repeater.cs
+  artifactKey: Guid(8be1198f502e5b84d8543211436ff018) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Decorators/Repeater.cs using Guid(8be1198f502e5b84d8543211436ff018) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '57809ceedc965134938dc51e6552ab00') in 0.003918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '53e567b94f8012ccf8151e2bd74b23f5') in 0.003880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Decorators/Inverter.cs
+  artifactKey: Guid(8169d2d23791bd24dad955eb2c5672e6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Decorators/Inverter.cs using Guid(8169d2d23791bd24dad955eb2c5672e6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd947294dad2e0f4a78ec416890b782e0') in 0.003754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Decorator.cs
+  artifactKey: Guid(962cc98ea45682345b25bff60f962d4e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Decorator.cs using Guid(962cc98ea45682345b25bff60f962d4e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e8ea1f1deb8c71fbb258993bb13b6186') in 0.003839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Composite.cs
+  artifactKey: Guid(d4c5f407eb771d5498b223590f125054) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Composite.cs using Guid(d4c5f407eb771d5498b223590f125054) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '32fb1cbd59ecd9758a162efc66fc9d2e') in 0.006525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes/Composites/Sequence.cs
+  artifactKey: Guid(3ca228db6c2603d47b20a26980e0338c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/Nodes/Composites/Sequence.cs using Guid(3ca228db6c2603d47b20a26980e0338c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '92a0f9ea3fe145576bb9c5a8f1864b6b') in 0.004074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/GameAi/BehaviorTree/IContext.cs
+  artifactKey: Guid(4e5327ad9df205948bcd71a890f58b0c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GameAi/BehaviorTree/IContext.cs using Guid(4e5327ad9df205948bcd71a890f58b0c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a7a379e9f4461c0fec6b0a821c2a0f97') in 0.003721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.215696 seconds.
+  path: Assets/Resources/BillingMode.json
+  artifactKey: Guid(9d0f4512666f8fe4aaee4da293d015d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Resources/BillingMode.json using Guid(9d0f4512666f8fe4aaee4da293d015d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd88564ad0fd55a32da5c82318727ebb8') in 0.006887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.758407 seconds.
+  path: Assets/GameAi
+  artifactKey: Guid(99f5e163329091e46b3a84090735b70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAi using Guid(99f5e163329091e46b3a84090735b70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ebc70ac569bd1f00f9c399bfbaa590f') in 0.001773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.995104 seconds.
+  path: Assets/GameAi/BehaviorTree
+  artifactKey: Guid(083010f772f244047b4da1a404bfe26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAi/BehaviorTree using Guid(083010f772f244047b4da1a404bfe26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb8a917dd3976495c580479430e08cc') in 0.001825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.765886 seconds.
+  path: Assets/GameAi/BehaviorTree/Nodes
+  artifactKey: Guid(19d6c6cfbf38c82429509f0bd02e7599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAi/BehaviorTree/Nodes using Guid(19d6c6cfbf38c82429509f0bd02e7599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404a06ca37920ac57ccf9ab3d8e63315') in 0.002063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 85.962453 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(3c4e09a147fdd784d824e3a9ace26afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(3c4e09a147fdd784d824e3a9ace26afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261a11bf30151f002c681bde3835fb14') in 0.001857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.614588 seconds.
+  path: Assets/Resources/BillingMode.json
+  artifactKey: Guid(9d0f4512666f8fe4aaee4da293d015d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BillingMode.json using Guid(9d0f4512666f8fe4aaee4da293d015d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a58da1cccc952e7c6b852ac039e327') in 0.006797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.530949 seconds.
+  path: Assets/GameAi/BehaviorTree/BehaviorTree.cs
+  artifactKey: Guid(6e220206612847740b5b4aac60261d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameAi/BehaviorTree/BehaviorTree.cs using Guid(6e220206612847740b5b4aac60261d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d12823a2985a9b34ea8133689513381') in 0.001749 seconds 
