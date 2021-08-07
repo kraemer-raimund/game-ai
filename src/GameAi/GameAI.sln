@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviorTree", "BehaviorTree\BehaviorTree.csproj", "{095D0BF3-9448-4D5F-89D4-FE95D8A18748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviorTreeSample", "BehaviorTreeSample\BehaviorTreeSample.csproj", "{CECEA2F5-9A35-43A6-94E5-24F09146E7A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095D0BF3-9448-4D5F-89D4-FE95D8A18748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095D0BF3-9448-4D5F-89D4-FE95D8A18748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095D0BF3-9448-4D5F-89D4-FE95D8A18748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095D0BF3-9448-4D5F-89D4-FE95D8A18748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECEA2F5-9A35-43A6-94E5-24F09146E7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECEA2F5-9A35-43A6-94E5-24F09146E7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECEA2F5-9A35-43A6-94E5-24F09146E7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECEA2F5-9A35-43A6-94E5-24F09146E7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
