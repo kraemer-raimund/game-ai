@@ -14,7 +14,7 @@ Behavior trees can be built up using individual nodes, or by composing multiple 
 
 To create your own behavior, create a sub-class of `BehaviorTree`, and in its constructor instantiate the nodes or sub-trees that comprise your desired AI behavior. The `BehaviorTree` class has some convenience methods for instantiating some of the most common node types.
 
-[Here's an article](https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php) with a good overview of the concept.
+In case you are new to behavior trees, [here's an article](https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php) with a good overview of the concept.
 
 # License
 
